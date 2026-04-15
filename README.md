@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ## ⚙️ Tooling & Plugins
-
+- 🌀 [Tips and tricks](https://github.com/a1xs?tab=repositories&q=information&type=source)  
+  A collection of plugins for flexible version management
 - 🔌 [ASDF Plugins](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)  
   A collection of plugins for flexible version management
 - ⛔ [Zabbix template](https://github.com/a1xs?tab=repositories&q=zabbix-templates&type=source)  

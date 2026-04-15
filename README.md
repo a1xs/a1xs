@@ -10,26 +10,26 @@
 🤖 Automation
 
 - 🛠 [Ansible Roles ](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)
-  - Ready-to-use roles to streamline infrastructure setup
+     - Ready-to-use roles to streamline infrastructure setup
 
-    📦 [Docker Roles ](https://github.com/a1xs?tab=repositories&q=docker role&type=source)
-    Automation and setup for containerized environments
+- 📦 [Docker Roles ](https://github.com/a1xs?tab=repositories&q=docker role&type=source)
+     - Automation and setup for containerized environments
     
-    🧩 [Docker Compose ](https://github.com/a1xs?tab=repositories&q=docker compose&type=source)
-    Ready-to-use multi-container setups
+- 🧩 [Docker Compose ](https://github.com/a1xs?tab=repositories&q=docker compose&type=source)
+     - Ready-to-use multi-container setups
     
-    🌍 [Terraform ](https://github.com/a1xs?tab=repositories&q=terraform&type=source)
-    Infrastructure as Code for scalable deployments
+- 🌍 [Terraform ](https://github.com/a1xs?tab=repositories&q=terraform&type=source)
+     - Infrastructure as Code for scalable deployments
 
 🏠 Smart Home
 
-    💡 [HomeAssistant ](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)
-    Projects for home automation and smart living
+- 💡 [HomeAssistant ](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)
+     - Projects for home automation and smart living
     
 🍴 Extras
 
-    [Forks](https://github.com/a1xs?tab=repositories&type=fork)
-    Experiments, inspirations, and things worth exploring
+- 🔗[Forks](https://github.com/a1xs?tab=repositories&type=fork)
+    - Experiments, inspirations, and things worth exploring
 
 <!--
 **a1xs/a1xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

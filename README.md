@@ -6,25 +6,25 @@
 
     🔌 ASDF Plugins
     A collection of plugins for flexible version management
-    → https://github.com/a1xs?tab=repositories&q=asdf_&type=source
+   [click here ](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)
 
 🤖 Automation
 
     🛠 Ansible Roles
     Ready-to-use roles to streamline infrastructure setup
-    → https://github.com/a1xs?tab=repositories&q=ansible_&type=source
+    [click here ](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)
 
 🏠 Smart Home
 
     💡 Home Assistant
     Projects for home automation and smart living
-    → https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source
+    [click here ](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)
 
 🍴 Extras
 
     Forks
     Experiments, inspirations, and things worth exploring
-    → https://github.com/a1xs?tab=repositories&type=fork
+    [click here](https://github.com/a1xs?tab=repositories&type=fork)
 
 <!--
 **a1xs/a1xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

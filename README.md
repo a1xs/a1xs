@@ -4,6 +4,8 @@
 
 - 🔌 [ASDF Plugins](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)  
   A collection of plugins for flexible version management
+- ⛔ [Zabbix template](https://github.com/a1xs?tab=repositories&q=zabbix-templates&type=source)  
+  A collection of templates for Zabbix
 
 ## 🤖 Automation
 

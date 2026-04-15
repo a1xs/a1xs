@@ -20,6 +20,21 @@
     Projects for home automation and smart living
     [click here ](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)
 
+📦 Docker Roles
+
+    Automation and setup for containerized environments
+    [click here ](https://github.com/a1xs?tab=repositories&q=docker role&type=source)
+    
+🧩 Docker Compose
+
+    Ready-to-use multi-container setups
+    [click here ](https://github.com/a1xs?tab=repositories&q=docker compose&type=source)
+    
+🌍 Terraform
+
+    Infrastructure as Code for scalable deployments
+    [click here ](https://github.com/a1xs?tab=repositories&q=terraform&type=source)
+    
 🍴 Extras
 
     Forks

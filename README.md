@@ -4,39 +4,32 @@
 
 ⚙️ Tooling & Plugins
 
-    🔌 ASDF Plugins
+    🔌 [ASDF Plugins ](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)
     A collection of plugins for flexible version management
-[click here ](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)
 
 🤖 Automation
 
-    🛠 Ansible Roles
+    🛠 [Ansible Roles ](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)
     Ready-to-use roles to streamline infrastructure setup
-[click here ](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)
 
-    📦 Docker Roles
+    📦 [Docker Roles ](https://github.com/a1xs?tab=repositories&q=docker role&type=source)
     Automation and setup for containerized environments
-[click here ](https://github.com/a1xs?tab=repositories&q=docker role&type=source)
     
-    🧩 Docker Compose
+    🧩 [Docker Compose ](https://github.com/a1xs?tab=repositories&q=docker compose&type=source)
     Ready-to-use multi-container setups
-[click here ](https://github.com/a1xs?tab=repositories&q=docker compose&type=source)
     
-    🌍 Terraform
+    🌍 [Terraform ](https://github.com/a1xs?tab=repositories&q=terraform&type=source)
     Infrastructure as Code for scalable deployments
-[click here ](https://github.com/a1xs?tab=repositories&q=terraform&type=source)
 
 🏠 Smart Home
 
-    💡 Home Assistant
+    💡 [HomeAssistant ](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)
     Projects for home automation and smart living
-[HomeAssistant ](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)
     
 🍴 Extras
 
-    Forks
+    [Forks](https://github.com/a1xs?tab=repositories&type=fork)
     Experiments, inspirations, and things worth exploring
-[click here](https://github.com/a1xs?tab=repositories&type=fork)
 
 <!--
 **a1xs/a1xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

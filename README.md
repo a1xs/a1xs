@@ -2,6 +2,8 @@
 
 - [ASDF Plugins ](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)
 - [Ansible roles ](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)
+- [HomeAssistant ](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)
+
 
 * [Forks](https://github.com/a1xs?tab=repositories&type=fork)
 <!--

@@ -2,7 +2,7 @@
 
 ## ⚙️ Tooling & Plugins
 - 🌀 [Tips and tricks](https://github.com/a1xs?tab=repositories&q=information&type=source)  
-  A collection of plugins for flexible version management
+  IT tool tips
 - 🔌 [ASDF Plugins](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)  
   A collection of plugins for flexible version management
 - ⛔ [Zabbix template](https://github.com/a1xs?tab=repositories&q=zabbix-templates&type=source)  
@@ -13,11 +13,14 @@
 - 🛠 [Ansible Roles](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)  
   Ready-to-use roles to streamline infrastructure setup
 
-- 📦 [Docker Roles](https://github.com/a1xs?tab=repositories&q=docker_&type=source)  
+- 📦 [Docker files](https://github.com/a1xs?tab=repositories&q=docker_&type=source)  
   Automation and setup for containerized environments
 
 - 🧩 [Docker Compose](https://github.com/a1xs?tab=repositories&q=docker-compose&type=source)  
   Ready-to-use multi-container setups
+
+- 🌍 [AWS](https://github.com/a1xs?tab=repositories&q=aws&type=source)  
+  Learning Amazon Web Services. Infrastructure as Code for AWS
 
 - 🌍 [Terraform](https://github.com/a1xs?tab=repositories&q=terraform&type=source)  
   Infrastructure as Code for scalable deployments

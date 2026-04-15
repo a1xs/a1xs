@@ -6,40 +6,40 @@
 
     🔌 ASDF Plugins
     A collection of plugins for flexible version management
-   [click here ](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)
+[click here ](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)
 
 🤖 Automation
 
     🛠 Ansible Roles
     Ready-to-use roles to streamline infrastructure setup
-    [click here ](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)
+[click here ](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)
 
 🏠 Smart Home
 
     💡 Home Assistant
     Projects for home automation and smart living
-    [click here ](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)
+[click here ](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)
 
 📦 Docker Roles
 
     Automation and setup for containerized environments
-    [click here ](https://github.com/a1xs?tab=repositories&q=docker role&type=source)
+[click here ](https://github.com/a1xs?tab=repositories&q=docker role&type=source)
     
 🧩 Docker Compose
 
     Ready-to-use multi-container setups
-    [click here ](https://github.com/a1xs?tab=repositories&q=docker compose&type=source)
+[click here ](https://github.com/a1xs?tab=repositories&q=docker compose&type=source)
     
 🌍 Terraform
 
     Infrastructure as Code for scalable deployments
-    [click here ](https://github.com/a1xs?tab=repositories&q=terraform&type=source)
+[click here ](https://github.com/a1xs?tab=repositories&q=terraform&type=source)
     
 🍴 Extras
 
     Forks
     Experiments, inspirations, and things worth exploring
-    [click here](https://github.com/a1xs?tab=repositories&type=fork)
+[click here](https://github.com/a1xs?tab=repositories&type=fork)
 
 <!--
 **a1xs/a1xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

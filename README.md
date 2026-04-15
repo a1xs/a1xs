@@ -5,12 +5,12 @@
 ⚙️ Tooling & Plugins
 
 - 🔌 [ASDF Plugins ](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)
-     A collection of plugins for flexible version management
+      - A collection of plugins for flexible version management
 
 🤖 Automation
 
-    🛠 [Ansible Roles ](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)
-    Ready-to-use roles to streamline infrastructure setup
+- 🛠 [Ansible Roles ](https://github.com/a1xs?tab=repositories&q=ansible_&type=source)
+  - Ready-to-use roles to streamline infrastructure setup
 
     📦 [Docker Roles ](https://github.com/a1xs?tab=repositories&q=docker role&type=source)
     Automation and setup for containerized environments

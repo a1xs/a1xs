@@ -4,8 +4,8 @@
 
 ⚙️ Tooling & Plugins
 
-    🔌 [ASDF Plugins ](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)
-    A collection of plugins for flexible version management
+- 🔌 [ASDF Plugins ](https://github.com/a1xs?tab=repositories&q=asdf_&type=source)
+     A collection of plugins for flexible version management
 
 🤖 Automation
 

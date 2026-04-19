@@ -25,6 +25,9 @@
 - 🍿 [Terraform](https://github.com/a1xs?tab=repositories&q=terraform&type=source)  
   Infrastructure as Code for scalable deployments
 
+- 🦊 [GitLab CI](https://github.com/a1xs?tab=repositories&q=gitlab-ci&type=source)  
+  GitLab CI/CD pipelines
+
 ## 🏠 Smart Home
 
 - 💡 [HomeAssistant](https://github.com/a1xs?tab=repositories&q=HomeAssistant&type=source)  
